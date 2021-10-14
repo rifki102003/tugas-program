@@ -26,4 +26,17 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
  ![Gambar 6](screenshoot/sss6.png)
  7. Kalian bisa langsung next saja sampai menemukan klik install dan pilih Enable lalu tunggu sampai installasi selesai.'<p>'
  ![Gambar 12](screenshoot/sss12.png)
-
+ 
+ Login Github
+Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
+Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.'<p>'
+ ![Gambar 13](screenshoot/ss2.png)
+ Buat Repository
+Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.'<p>'
+ ![Gambar 14](screenshoot/ss3.png)
+ Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
+Anda perlu mengisi detail informasi berikut:
+Nama Repository : digunakan untuk identitas repository yang dibuat.
+Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
+Jenis Repository   : jenis repository  dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda.
+Setelah mengisi detail informasi di atas, klik Create Repository.'<p>'
