@@ -24,6 +24,6 @@ Sebenarnya Anda bebas mengganti nama aplikasi Git yang akan ditampilkan pada Sta
  6. Tentukan File Editor
 Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pada tutorial ini, kami menggunakan Vim Editor. Klik Next apabila Anda sudah menentukan file editor yang akan Anda gunakan.'<p>'
  ![Gambar 6](screenshoot/sss6.png)
- 7. Kalian bisa langsung next saja sampai menemukan klik install dan pilih Enable.'<p>'
+ 7. Kalian bisa langsung next saja sampai menemukan klik install dan pilih Enable lalu tunggu sampai installasi selesai.'<p>'
  ![Gambar 12](screenshoot/sss12.png)
 
