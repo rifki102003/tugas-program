@@ -1,7 +1,7 @@
  # tugas-program
- ## Belajar tag dasar HTML yuk
+ ## Belajar Tag HTML
 
- ### Membuat paragraf
+ ### Membuat Paragraf
  Berikut langkah - langkah pengunaan Git'<p>'
  Cara Install Git di Windows
 Cara install Git di Windows terdiri dari 10 langkah. Berikut adalah penjelasannya:
