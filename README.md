@@ -42,4 +42,6 @@ Setelah mengisi detail informasi di atas, klik Create Repository.'<p>'
  Lalu masuk ke aplikasi git yang sudah kita download,dan buat folder untuk reposytory di local disk D misalkan Labs,lalu masuk comand git dan ketik ($pwd)lalu ketik ($cd /d/labs/) labs adalah nama folder yang tadi kita buat di local disk d,ketik ($git clone masukan url dari akun github kita) jika sudah akan seperti ini.'<P>'
   ![Gambar 15](screenshoot/sss13.PNG)
     Lalu akan muncul file readme dari github kita jika sudah di clone seperti ini.<p>
-  ![Gambar 16](screenshoot/sss18.PNG)  
+  ![Gambar 16](screenshoot/sss18.PNG)
+  Nah untuk memasukan folder reposytory yang ada di local disk D ke akun github kita dengan cara buka comand git lagi lalu ketik ($git status) lalu klik ($git push -u origin main).<P>
+  ![Gambar 18](screenshoot/sss20.PNG)  
