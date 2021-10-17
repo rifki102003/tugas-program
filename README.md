@@ -4,7 +4,7 @@
  ### Membuat Tutorial VCS
  Berikut langkah - langkah pengunaan Git'<p>'
  Cara Install Git di Windows
-Cara install Git di Windows terdiri dari 10 langkah. Berikut adalah penjelasannya:
+Cara install Git di Windows,Berikut adalah penjelasannya:
 
 1. Download File Git
 Untuk menginstall Git, Anda perlu mengunduh file-nya terlebih dahulu di situs resminya. Download sesuai tipe sistem operasi pada komputer Anda. Apabila tipe sistem operasi komputer Anda 64bit,  pilih Git yang mendukung Windows 64bit. Tujuannya adalah agar tidak terjadi error saat proses instalasi Git.
@@ -39,4 +39,5 @@ Jenis Repository   : jenis repository  dibagi menjadi Public dan Private. Ketika
 Setelah mengisi detail informasi di atas, klik Create Repository.'<p>'
  ![Gambar 14](screenshoot/ss90.PNG)
  
- 
+ Lalu masuk ke aplikasi git yang sudah kita download,dan buat folder untuk reposytory di local disk D misalkan Labs,lalu masuk comand git dan ketik ($pwd)lalu ketik ($cd /d/labs/) labs adalah nama folder yang tadi kita buat di local disk d,ketik ($git clone masukan url dari akun github kita) jika sudah akan seperti ini.'<P>'
+  ![Gambar 15](screenshoot/sss13.PNG)
