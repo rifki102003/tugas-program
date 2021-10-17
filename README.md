@@ -44,4 +44,4 @@ Setelah mengisi detail informasi di atas, klik Create Repository.'<p>'
     Lalu akan muncul file readme dari github kita jika sudah di clone seperti ini.<p>
   ![Gambar 16](screenshoot/sss18.PNG)
   Nah untuk memasukan folder reposytory yang ada di local disk D ke akun github kita dengan cara buka comand git lagi lalu ketik ($git status) lalu klik ($git push -u origin main).<P>
-  ![Gambar 18](screenshoot/sss20.PNG)  
+  ![Gambar 18](screenshoot/201.PNG)  
