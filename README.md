@@ -1,7 +1,7 @@
  # tugas-program
- ## Belajar Tag HTML
+ ## Belajar HTML 
 
- ### Membuat Paragraf
+ ### Membuat Tutorial VCS
  Berikut langkah - langkah pengunaan Git'<p>'
  Cara Install Git di Windows
 Cara install Git di Windows terdiri dari 10 langkah. Berikut adalah penjelasannya:
@@ -30,7 +30,7 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
  Login Github
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.'<p>'
- ![Gambar 13](screenshoot/ss2.png)
+ ![Gambar 13](screenshoot/ss19.png)
  Buat Repository
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.'<p>'
  ![Gambar 14](screenshoot/ss3.png)
