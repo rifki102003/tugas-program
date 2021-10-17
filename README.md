@@ -44,4 +44,10 @@ Setelah mengisi detail informasi di atas, klik Create Repository.'<p>'
     Lalu akan muncul file readme dari github kita jika sudah di clone seperti ini.<p>
   ![Gambar 16](screenshoot/sss18.PNG)
   Nah untuk memasukan folder reposytory yang ada di local disk D ke akun github kita dengan cara buka comand git lagi lalu ketik ($git status) lalu klik ($git push -u origin main).<P>
-  ![Gambar 18](screenshoot/201.PNG)  
+  ![Gambar 18](screenshoot/201.PNG) 
+    
+    Jadi  Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak
+yang diciptakan oleh Linus Torvalds.
+Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.<p>
+
+Itu saha yang dapat saya paparkan mengenai git terimakasih wassalamuallaikum wr wb.<p>
